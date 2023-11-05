@@ -1,0 +1,15 @@
+https://rixon2024.netlify.app/       
+for project demo
+
+https://www.npmjs.com/package/react-scroll  for smooth scroll behavour
+
+https://fontawesome.com/v6/docs/web/use-with/react/  for fontawsome svg and icons
+
+
+/*************************************////
+
+Its a sample project made business promoting website , single page with npm scroll package and fontawsome package and completely responsive. there is a scroll btn which appears and smooth scrolls 
+
+
+
+
